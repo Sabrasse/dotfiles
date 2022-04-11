@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = keyvan.sabras@edu.escp.eu
+	name = Keyvan Sabras
